@@ -1,0 +1,10 @@
+esto.es_un.mail@mail.com
+esto.es_un.mail+complejo@mail.com
+dominio.com
+rodrigo.jimenez@yahoo.com.mx
+ruben@starbucks.com
+esto_no$es_email@dominio.com
+no_se_de_internet3@hotmail.com
+
+Ándrés Barrera Moreno
+[\u00C1-\u00ff]
